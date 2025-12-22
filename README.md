@@ -119,7 +119,7 @@ const Samuel = {
 <div align="center">
 
 <!-- GITHUB TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=SMZNOSK&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
