@@ -105,10 +105,10 @@ const Samuel = {
 <div align="center">
 
 <!-- GITHUB STATS -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SMZNOSK&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true"/>
 
 <!-- MOST USED LANGUAGES -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMZNOSK&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
@@ -142,9 +142,9 @@ const Samuel = {
 
 <!-- SNAKE EATING CONTRIBUTIONS - Necesitarás configurar GitHub Actions para esto -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/SMZNOSK/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/SMZNOSK/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TU_USUARIO/SMZNOSK/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -160,7 +160,7 @@ const Samuel = {
 <br/>
 Sistema de tracking vehicular con visualización en tiempo real y procesamiento de telemetría continua.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=nombre-repo-tracking&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)](https://github.com/TU_USUARIO/nombre-repo-tracking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMZNOSK&repo=nombre-repo-tracking&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)](https://github.com/SMZNOSK/Mapa_interactivo)
 
 ---
 
@@ -169,7 +169,7 @@ Sistema de tracking vehicular con visualización en tiempo real y procesamiento 
 <br/>
 Sistema completo de gestión con notificaciones automáticas y panel administrativo intuitivo.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=nombre-repo-pedidos&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)](https://github.com/TU_USUARIO/nombre-repo-pedidos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMZNOSK&repo=nombre-repo-pedidos&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)](https://github.com/SMZNOSK/pizzas_voy_volando)
 
 </div>
 
@@ -180,7 +180,7 @@ Sistema completo de gestión con notificaciones automáticas y panel administrat
 <div align="center">
 
 <!-- GITHUB ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SMZNOSK&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -307,19 +307,6 @@ while (alive) {
 
 </div>
 
----
-
-<div align="center">
-
-### 🎵 Actualmente Escuchando
-
-<!-- SPOTIFY NOW PLAYING -->
-<!-- Descomenta si conectas Spotify -->
-<!-- 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ff41" alt="Spotify Now Playing"/>
--->
-
-</div>
 
 ---
 
@@ -327,7 +314,7 @@ while (alive) {
 
 ### 👁️ Visitas al Perfil
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=00ff41&style=for-the-badge&label=VISITAS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=SMZNOSK&color=00ff41&style=for-the-badge&label=VISITAS" alt="Profile Views"/>
 
 <br/><br/>
 
