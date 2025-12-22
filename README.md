@@ -70,29 +70,6 @@ Plataforma completa de gestión de pedidos para el sector alimenticio
   - Sistema de confirmaciones por correo con PHPMailer
   - Protección reCAPTCHA
 
-### 📦 Optimización de Procesos
-Aplicaciones web para optimización de operaciones de empaque
-- Mejora del **70%** en precisión de entrega
-- Reestructuración de inventarios digitales
-- Interfaces intuitivas y fáciles de usar
-
----
-
-## 📊 Experiencia
-
-### Flores y Planas la Finca S.A. DE C.V.
-**Desarrollador Web y Operaciones Digitales**
-- Desarrollo full-stack de aplicaciones web con enfoque en UX
-- Implementación de sistemas de monitoreo en tiempo real
-- Digitalización y automatización de procesos
-- Despliegue y mantenimiento en AWS
-- Coordinación de equipos y gestión operativa
-
-**Logros:**
-- ✅ Optimización del sistema de empaque con mejora del 70% en precisión
-- ✅ Reestructuración completa de inventarios
-- ✅ Implementación de sistemas de tiempo real para seguimiento vehicular
-
 ---
 
 ## 🎯 Áreas de Especialización
