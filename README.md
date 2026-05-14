@@ -108,10 +108,12 @@ Flutter • Dart • SQLite • Drift ORM • Offline-first • ESC/POS • Secu
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
 </p>
 
-### Herramientas
+### Herramientas & AI Coding
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,python" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,python" />
 </p>
+
+Antigravity • OpenAI Codex • OpenCode
 
 ---
 
@@ -177,6 +179,12 @@ Flutter • Dart • SQLite • Drift ORM • Offline-first • ESC/POS • Secu
 </div>
 
 ---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:00D4FF&height=120&section=footer"/>
+
+</div>
 
 <div align="center">
 
