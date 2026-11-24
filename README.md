@@ -1,194 +1,152 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:00D4FF&height=200&section=header&text=SMZNOSK&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Real-Time%20Systems%20|%20Offline-First%20Apps%20|%20Cloud&descSize=16&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:7C3AED,100:22D3EE&height=210&section=header&text=Samuel%20S%C3%A1nchez&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%C2%B7%20IA%20aplicada%20%C2%B7%20Game%20Dev&descSize=18&descAlignY=56"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Construyendo+soluciones+que+funcionan+sin+conexi%C3%B3n;Sistemas+en+tiempo+real+%7C+Apps+offline-first)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Apps+que+funcionan+con+y+sin+conexi%C3%B3n;Sistemas+en+tiempo+real+con+mapas+y+telemetr%C3%ADa;IA+con+fuentes%3A+RAG+con+NVIDIA+Nemotron;Juegos+de+f%C3%A1bricas+y+robots+en+Roblox)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/samuel-s%C3%A1nchez-terr%C3%B3n-78563a33b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sanchez.sm2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Villa%20Guerrero%2C%20MX-1F2937?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=SMZNOSK&style=flat-square&color=7C3AED&label=visitas"/>
 
 </div>
 
----
+## Hola, soy Samuel 👋
 
-## 👨‍💻 Sobre mí
+Ingeniero en Sistemas Computacionales. Construyo software que tiene que funcionar en el mundo real: puntos de venta sin internet, flotas de transporte en un mapa en vivo, bots para comunidades y, en mis ratos libres, juegos y asistentes con IA.
 
-```js
-const Samuel = {
-  ubicación: "Villa Guerrero, México 🇲🇽",
-  educación: "Ing. Sistemas Computacionales",
-  enfoque: ["Full-Stack Dev", "Real-Time Systems", "Offline-First Apps", "Cloud Architecture"],
-  actualmenteAprendiendo: {
-    redes: "CCNA Fundamentals",
-    seguridad: "PfSense Firewall",
-    arquitectura: "Software Design Patterns",
-    automation: "AI-Powered Tools"
-  },
-  código: ["TypeScript", "JavaScript", "PHP", "Python", "Dart"],
-  tecnologías: {
-    frontend: ["React", "Next.js", "TailwindCSS"],
-    backend: ["Node.js", "Laravel", "Prisma"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
-    cloud: ["AWS (EC2, S3, RDS)", "Docker"],
-    realTime: ["WebSockets", "SSE", "Three.js"],
-    mobile: ["Flutter", "Dart"],
-    localFirst: ["SQLite", "Drift ORM", "Offline-first"],
-    hardware: ["ESC/POS", "Thermal Printer Integration"],
-    security: ["PIN Auth", "Secure Storage", "Hashing"]
-  },
-  desafíoActual: "Construir sistemas escalables que funcionen online y offline 🌟"
-};
-```
+- 🧠 **Ahora mismo:** un copiloto con IA para Minecraft que responde con fuentes (RAG + NVIDIA Nemotron + pgvector).
+- 🎮 **En paralelo:** un juego de fábricas, robots y defensa por oleadas en Roblox.
+- 🚐 **En el trabajo:** un sistema de transporte con 2 paneles web y 2 apps móviles.
+- 📡 **Aprendiendo:** CCNA, pfSense y patrones de arquitectura.
 
----
+## 🚀 Proyectos
 
-## 🎯 Especialidades
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Área | Descripción |
-|------|-------------|
-| ⚡ Sistemas en tiempo real | WebSockets, SSE, telemetría vehicular |
-| 📱 Aplicaciones offline-first | Flutter, SQLite, Drift ORM, sincronización local |
-| 🖥️ Desarrollo full-stack | React, Next.js, Node.js, Laravel |
-| 🔌 Integración de APIs | REST, WhatsApp API, Twilio, Mapbox |
-| 🗄️ Bases de datos | PostgreSQL, MongoDB, MySQL, SQLite |
-| ☁️ Despliegue cloud | AWS EC2, S3, RDS, Docker |
-| 🤖 Automatización con IA | Herramientas AI-powered, workflows inteligentes |
+### 🤖 Copiloto de Minecraft
+Asistente en español dentro de Minecraft Java. Contesta citando sus fuentes, calcula daño y recetas con código, lee tu inventario en vivo y construye casas, castillos y aldeas que se adaptan al terreno.
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Fabric%20mod-Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA%20Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## 🚀 Proyectos Destacados
+<sub>🔒 Repositorio privado · ~4.200 fichas indexadas</sub>
 
-### 🧾 Punto de Venta Offline
-**Stack:** Flutter • Dart • SQLite • Drift ORM • ESC/POS • Secure Storage
+</td>
+<td width="50%" valign="top">
+
+### 🏭 PROCEDIMENTAL · Roblox
+Juego de construcción de fábricas y defensa por oleadas en un mundo procedural. Extractores, energía, líquidos, 25 especies de robots pilotables y efectos visuales propios.
+
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=flat-square&logo=robloxstudio&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+<sub>🛠️ En desarrollo</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚐 Sistema de Transporte
+Rastreo de flota en tiempo real con geocercas para un complejo hotelero: 2 paneles web, app para colaboradores y app para transportistas.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+<sub>🔒 Proyecto de cliente</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [VEX LATAM SYSTEM](https://github.com/SMZNOSK/vex-latam-system)
+Bot de Discord para una comunidad gamer: perfiles, búsqueda de equipo, clanes, torneos, promociones y panel de administración.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Discord](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+<sub>🟢 En producción</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 [Punto de Venta Offline](https://github.com/SMZNOSK/punto_venta_offline)
+POS que funciona sin internet: inventario, ventas, caja, acceso con PIN e impresión en ticketera térmica.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Drift](https://img.shields.io/badge/Drift%20%2B%20SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![ESC/POS](https://img.shields.io/badge/ESC%2FPOS-374151?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ [Inventario TI](https://github.com/SMZNOSK/ITInventario)
+Control de equipos y activos de TI para empresa, con panel web.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Más proyectos</b></summary>
+
 <br/>
-Aplicación POS offline-first con inventario, ventas, caja, autenticación local y soporte para impresora térmica.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMZNOSK&repo=punto_venta_offline&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)](https://github.com/SMZNOSK/punto_venta_offline)
+- 🍕 **Plataforma de pedidos** · Laravel, MySQL, Twilio y WhatsApp API, con avisos automáticos y panel de administración.
+- 🛒 **E-commerce** · TypeScript.
+- 📍 **Geolocalización lobby a lobby** · PHP, rastreo de transporte interno.
 
----
+</details>
 
-### 🗺️ Sistema de Monitoreo en Tiempo Real
-**Stack:** Next.js • Prisma • PostgreSQL • Mapbox • SSE
-<br/>
-Sistema de tracking vehicular con visualización en tiempo real y procesamiento de telemetría continua.
+## 🛠️ Con qué trabajo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMZNOSK&repo=Mapa_interactivo&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)](https://github.com/SMZNOSK/Mapa_interactivo)
-
----
-
-### 🍽️ Plataforma de Pedidos Digitales
-**Stack:** Laravel • MySQL • Twilio • WhatsApp API
-<br/>
-Sistema completo de gestión con notificaciones automáticas y panel administrativo intuitivo.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMZNOSK&repo=pizzas_voy_volando&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)](https://github.com/SMZNOSK/pizzas_voy_volando)
-
----
-
-## 🛠️ Arsenal Tecnológico
-
-### Frontend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,dart,php,lua&perline=8" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,laravel,prisma,flutter,discordjs&perline=8" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,aws,docker,linux,git&perline=8" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=blender,figma,vscode,androidstudio,postman&perline=8" />
 </p>
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,php,prisma,postgres,mongodb,mysql" />
-</p>
+## 💼 Experiencia
 
-### 📱 Mobile, Local-First & POS
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,sqlite" />
-</p>
+**Desarrollador Full-Stack y Operaciones Digitales**
 
-Flutter • Dart • SQLite • Drift ORM • Offline-first • ESC/POS • Secure Storage
+- 📊 Monitoreo en tiempo real de flotas vehiculares con mapas y telemetría.
+- 📱 App POS offline con Flutter y ticketera térmica.
+- ✅ **70 %** más precisión en entregas del sistema de empaque.
+- 🔄 Reestructuración de inventarios digitales y digitalización de procesos en el sector alimenticio.
+- ☁️ Despliegue y operación en AWS (EC2, S3, RDS).
 
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
-</p>
-
-### Herramientas & AI Coding
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,python" />
-</p>
-
-Antigravity • OpenAI Codex • OpenCode
-
----
-
-## 💼 Experiencia Profesional
-
-> **Desarrollador Full-Stack & Operaciones Digitales**
-
-- ✅ Optimización del **70%** en precisión de entrega del sistema de empaque
-- 📱 Desarrollo de app POS offline-first con Flutter y soporte para impresora térmica
-- 📊 Implementación de monitoreo en tiempo real para flotas vehiculares
-- 🔄 Reestructuración completa de inventarios digitales
-- 🚀 Digitalización de procesos del sector alimenticio
-- ☁️ Despliegue y gestión en AWS con alta disponibilidad
-- 👥 Coordinación de equipos para cumplimiento de objetivos
-
----
-
-## 📈 GitHub Stats
+## 📈 Actividad
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SMZNOSK&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SMZNOSK&theme=react&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuciones en 3D" width="100%" />
+</picture>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMZNOSK&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
-
-</div>
-
----
-
-## 📚 Aprendizaje Continuo
-
-```
-📌 Actual                    📌 Próximo                 📌 Futuro
-├── CCNA Networking          ├── Kubernetes             ├── ML Engineering
-├── PfSense Security         ├── Microservicios         ├── Blockchain
-├── AWS Architect            ├── GraphQL                └── Web3
-└── Flutter & Drift ORM      └── CI/CD Pipelines
-```
-
----
-
-## 🎯 Metas 2025
-
-- 🏅 Certificación CCNA
-- 📖 Contribuir a 5+ proyectos Open Source
-- 🚀 Lanzar mi propio producto SaaS
-- 📝 Escribir 12 artículos técnicos
-- 🎓 Dominar arquitectura de microservicios
-- 📱 Publicar app POS offline en producción
-- 💪 Alcanzar 1000+ commits este año
-
----
-
-## 📬 Conecta Conmigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-s%C3%A1nchez-terr%C3%B3n-78563a33b/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanchez.sm2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SMZNOSK)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SMZNOSK/smznosk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SMZNOSK/smznosk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SMZNOSK/smznosk/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
+</picture>
 
 </div>
 
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:00D4FF&height=120&section=footer"/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:00D4FF&height=120&section=footer"/>
-
-</div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,45:7C3AED,100:0D1117&height=110&section=footer"/>
